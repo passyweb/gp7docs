@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# GP7 End User Docs documentation build configuration file, created by
-# sphinx-quickstart on Fri Nov 27 11:53:34 2015.
+# Gp7 documentation build configuration file, created by
+# sphinx-quickstart on Thu Jan 28 17:12:01 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -16,7 +16,6 @@
 import sys
 import os
 import shlex
-#import sphinx_rtd_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -32,13 +31,9 @@ import shlex
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage',
-    'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
-    'sphinx.ext.viewcode',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -56,8 +51,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'GP7'
-copyright = '2015, Christian Kanangila'
+project = 'Gp7'
+copyright = '2016, Christian Kanangila'
 author = 'Christian Kanangila'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -126,7 +121,7 @@ html_theme = 'classic'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-#html_theme_path = [classic.get_html_theme_path()]
+#html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -210,7 +205,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'GP7Docs'
+htmlhelp_basename = 'Gp7doc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -232,7 +227,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'GP7Docs.tex', 'Manuel Utilisateur Gp7',
+  (master_doc, 'Gp7.tex', 'Gp7 Documentation',
    'Christian Kanangila', 'manual'),
 ]
 
@@ -262,7 +257,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'gp7docs', 'Gp7 Manuel Utilisateur',
+    (master_doc, 'gp7', 'Gp7 Documentation',
      [author], 1)
 ]
 
@@ -276,8 +271,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'GP7Docs', 'GP7 Manuel Utilisateur',
-   author, 'GP7Docs', 'One line description of project.',
+  (master_doc, 'Gp7', 'Gp7 Documentation',
+   author, 'Gp7', 'One line description of project.',
    'Miscellaneous'),
 ]
 
