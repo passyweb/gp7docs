@@ -10,7 +10,7 @@ Cette fonctionnalité permet de gérer les entités d'enseignement.
 Allez dans le menu \ **Etudes**\  et puis cliquez sur le sous-menu \ **Gestion des entités d'enseignement**\.
 
 	.. figure:: _static/listEntities.png
-		:scale: 40 %
+		:scale: 70 %
 		:align: center
 
 		Gestion des éntités d'enseignement
@@ -51,7 +51,7 @@ Cette fonctionnalité permet de gérer l'organisation des études.
 Allez dans le menu \ **Etudes**\  et puis cliquez sur le sous-menu \ **Gestion des études**\.
 
  .. figure:: _static/mnuEtudes.png
- 	:scale: 30 %
+ 	:scale: 70 %
  	:align: center
  	:alt: Le sous-menu Gestion des études
 
