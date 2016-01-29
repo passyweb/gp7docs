@@ -1,6 +1,6 @@
-******************
-Gestion des études
-******************
+*************
+Module Etudes
+*************
 
 Gestion des entités d'enseignement
 ==================================

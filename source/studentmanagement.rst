@@ -1,5 +1,4 @@
-************************
-Gestion des inscriptions
-************************
+*******************
+Module Inscriptions
+*******************
 
-.. todo:: En cours de redaction
