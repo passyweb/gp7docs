@@ -65,7 +65,7 @@ author = 'Christian Kanangila'
 # built documents.
 #
 # The short X.Y version.
-version = '4.3.3'
+version = '4.3'
 # The full version, including alpha/beta/rc tags.
 release = '4.3.3'
 
@@ -210,7 +210,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'GP7EndUserDocsdoc'
+htmlhelp_basename = 'GP7Docs'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -232,7 +232,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'GP7EndUserDocs.tex', 'GP7 End User Docs Documentation',
+  (master_doc, 'GP7Docs.tex', 'Manuel Utilisateur Gp7',
    'Christian Kanangila', 'manual'),
 ]
 
@@ -262,7 +262,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'gp7enduserdocs', 'GP7 End User Docs Documentation',
+    (master_doc, 'gp7docs', 'Gp7 Manuel Utilisateur',
      [author], 1)
 ]
 
@@ -276,8 +276,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'GP7EndUserDocs', 'GP7 End User Docs Documentation',
-   author, 'GP7EndUserDocs', 'One line description of project.',
+  (master_doc, 'GP7Docs', 'GP7 Manuel Utilisateur',
+   author, 'GP7Docs', 'One line description of project.',
    'Miscellaneous'),
 ]
 
