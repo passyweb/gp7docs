@@ -6,7 +6,6 @@ Premier lancement
 -----------------
 
 
-
 Gestion des pays et nationalités
 --------------------------------
 
@@ -15,6 +14,8 @@ Cette fonctionnalité permet de gérer les pays et les nationalités.
 Allez dans le menu \ **Outils**\  et puis cliquez sur le sous-menu \ **Pays**\. 
 
 	.. image:: _static/mnuItemCountries.png
+		:scale: 60 %
+		:align: center
 
 La fenêtre suivante apparaît.
 
