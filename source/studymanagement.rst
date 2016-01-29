@@ -1,6 +1,6 @@
-*************************
-Modules et fonctionalités
-*************************
+******************
+Gestion des études
+******************
 
 Gestion des entités d'enseignement
 ==================================
