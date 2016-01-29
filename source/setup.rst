@@ -31,8 +31,7 @@ Pour un meilleur fonctionnement, Gp7 nécessite une configuration système minim
 Obtenir Gp7
 -----------
 
-Gp7 est disponible gratuitement sur sur la `forge <https://forge.umons.ac.be>`_
- de l'`Université de Mons <http://www.umons.ac.be>`_
+Gp7 est disponible gratuitement sur sur la `forge <https://forge.umons.ac.be>`_  de l'`Université de Mons <http://www.umons.ac.be>`_
 
 Processus d'installation
 ------------------------

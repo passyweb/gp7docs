@@ -17,7 +17,6 @@ Philosophie
 Fonctionnalités
 ---------------
 
-
 Inscriptions (Etudiant et Scolarité)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

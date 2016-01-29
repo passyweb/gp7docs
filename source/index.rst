@@ -7,12 +7,14 @@ Manuel de l'utilisateur Gp7
 ===========================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    introduction
    setup
    gettingstarted
    studymanagement
    studentmanagement
+   changelog
+   faq
 
 
