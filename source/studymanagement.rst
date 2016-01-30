@@ -31,9 +31,7 @@ Ajouter une entité
 Modifier une entité
 -------------------
 	* Sélectionnez un élement et puis cliquez sur le bouton \ **Modifier**\  ou double-cliquez un élement.
-	* Remplissez les différents champs.
 	* Modifiez les champs voulus et puis cliquez sur le bouton \ **Enregistrer**\ .
-	* Une fenêtre apparait pour indiquer si l'opération a reussi ou pas.
 
 Supprimer une entité
 --------------------

@@ -20,6 +20,8 @@ Allez dans le menu \ **Outils**\  et puis cliquez sur le sous-menu \ **Pays**\.
 La fenêtre suivante apparaît.
 
 	.. image:: _static/addCountry.png
+		:scale: 60 %
+		:align: center
  
 Ajouter un élement
 ^^^^^^^^^^^^^^^^^^
@@ -45,10 +47,14 @@ Modifier un élement
 * Sélectionnez un élement et puis cliquez sur le bouton \ **Modifier**\  ou double-cliquer un élement. 
 
 	.. image:: _static/modifyCountry.png
+		:scale: 60 %
+		:align: center
 
 * La fenêtre d'édition apparait. 
 
 	.. image:: _static/editCountry.png
+		:scale: 60 %
+		:align: center
 
 * Modifiez les champs voulus et puis cliquez sur le bouton \ **Enregistrer**\ .
 * Une fenêtre apparait pour indiquer si l'opération a reussi ou pas.
@@ -59,12 +65,6 @@ Supprimer un élement
 ^^^^^^^^^^^^^^^^^^^^
 
 * Sélectionnez un élement et cliquez sur le bouton \ **Supprimer**\ .
-* Un message de confirmation apparait.
-
-	.. image:: _static/confirmDeleteCountry.png
-
-* Une fenêtre apparait pour indiquer si l'opération a reussi ou pas.
-
-	.. image:: _static/successfulMessage.png
+* Un message de confirmation apparait. Cliquez sur \ **Oui**\  pour confirmer l'opération
 
 .. warning:: La suppression d'un pays ou d'une nationalité implique qu'il (ou elle) ne sera plus référencé(e).
