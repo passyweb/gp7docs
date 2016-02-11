@@ -9,24 +9,20 @@ Pour un meilleur fonctionnement, Gp7 nécessite une configuration système minim
 
 **Configuration logicielle minimale requise :**
 
-- Systèmes d'exploitation pris en charge : Windows 7 Service Pack 1; Windows 8; Windows 8.1; Windows Server 2008 R2 SP1; Windows Server 2008 Service Pack 2; Windows Server 2012; Windows Server 2012 R2; Windows Vista Service Pack 2
-- Microsoft SQL Server 2008 ou version ultérieure
-- .Net Framework 4.6 :
-
+- Systèmes d'exploitation pris en charge : Windows 7 Service Pack 1; Windows Server 2008 R2 SP1; Windows Server 2008 Service Pack 2; Windows Vista Service Pack 2
+- Microsoft SQL Server 2008
+- `.Net Framework 4.5 <https://www.microsoft.com/fr-fr/download/details.aspx?id=30653>`_ : 
     - Windows 10 est livré avec .NET Framework 4.6 préinstallé : l'installation de ce package n'est donc pas nécessaire. Ce package n'est pas applicable pour Windows 10 et ne peut pas être installé sur ce système.
-    - Quand vous installez ce package, les mises à jour/packages suivants sont installés, selon le système d'exploitation :
-        - Sur Windows Vista SP2 / Windows 7 SP1/ Windows Server 2008 SP2 / Windows Server 2008 R2 SP1, Microsoft .NET Framework 4.6 est installé sous Programmes et fonctionnalités dans le Panneau de configuration.
-        - Sur Windows 8 / Windows Server 2012, vous le trouverez comme Mise à jour de Microsoft Windows (KB3045562) sous Mises à jour installées dans le Panneau de configuration.
-        - Sur Windows 8.1 / Windows Server 2012 R2, vous le trouverez comme Mise à jour de Microsoft Windows (KB3045563) sous Mises à jour installées dans le Panneau de configuration.
-    - Cette version de .NET Framework s'exécute côte à côte avec .NET Framework 3.5 SP1 et les versions antérieures, mais procède à une mise à jour sur place de .NET Framework 4, .NET Framework 4.5, .NET Framework 4.5.1 et .NET Framework 4.5.2. Pour obtenir des informations importantes sur cette version, consultez le fichier Lisez-moi de .NET Framework 4.6.
+- `Microsoft Report Viewer 2012 Runtime <https://www.microsoft.com/fr-fr/download/details.aspx?id=35747>`_ : 
+    - Composant requis : Le package Types CLR du système SQL Server: `x86 <http://go.microsoft.com/fwlink/?LinkID=239643&clcid=0x409>`_ ou `x64 <http://go.microsoft.com/fwlink/?LinkID=239644&clcid=0x409>`_
 
 
 **Configuration matérielle minimale requise :**
 
 - Processeur 1 GHz minimum
 - 512 Mo de mémoire vive (RAM)
-- 4,5 Go d'espace disque disponible (x86)
-- 4,5 Go d'espace disque disponible (x64)
+- 850 Mo d'espace disque disponible (x86)
+- Disque dur 2 Go (x64)
 
 Obtenir Gp7
 -----------
@@ -36,4 +32,39 @@ Gp7 est disponible gratuitement sur sur la `forge <https://forge.umons.ac.be>`_ 
 Processus d'installation
 ------------------------
 
-.. todo:: En cours de redaction
+Double-cliquez sur le fichier d'installation téléchargé depuis la forge
+
+    .. image:: _static/install_1.png
+        :scale: 60%
+        :align: center
+
+Suivez les différentes étapes d'installation
+
+    .. image:: _static/install_2.png
+        :scale: 60%
+        :align: center
+
+ Licence   
+    .. image:: _static/install_3.png
+        :scale: 60%
+        :align: center
+
+ Dossier d'installation  
+    .. image:: _static/install_4.png
+        :scale: 60%
+        :align: center
+
+ Dossier du menu Démarrer    
+    .. image:: _static/install_5.png
+        :scale: 60%
+        :align: center
+
+ Prêt à installer   
+    .. image:: _static/install_6.png
+        :scale: 60%
+        :align: center
+
+ Installation en cours    
+    .. image:: _static/install_7.png
+        :scale: 60%
+        :align: center

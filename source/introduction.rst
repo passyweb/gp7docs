@@ -20,8 +20,7 @@ Fonctionnalités
 Inscriptions (Etudiant et Scolarité)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Gère l'étudiant depuis son accès au système universitaire jusqu'à sa sortie en y laissant des traces à 
-Chaque niveau et ce module contient :
+Gère l'étudiant depuis son accès au système universitaire jusqu'à sa sortie en y laissant des traces à chaque niveau. Ce module contient :
 
 - Les candidatures de nouveaux venus (Accès aux premières années) : Test d'admission et confirmation.
 - Le passage en classe supérieure, redoublement / Affectation dans une autre classe de même niveau (ou inférieure)
@@ -33,8 +32,7 @@ Chaque niveau et ce module contient :
 
 Études
 ^^^^^^
-Gère les enseignants, les matières enseignées et les différentes classes.
-d'une manière détaillée, il contient:
+Gère les enseignants, les matières enseignées et les différentes classes d'une manière détaillée, il contient:
 
 - Gestion complète de cours
 - Le suivi d'avancement des programmes officiels (enseignants, modules, matières, chapitres, Périodes, jours, heures)
@@ -42,7 +40,7 @@ d'une manière détaillée, il contient:
 
 Examens
 ^^^^^^^
-Prend en charge les tests ou concours d'entrée, les devoirs de classe(travaux pratiques, travaux dirigés,...), les interrogations et les examens. Tout ceci allant de la gestion des candidatures aux résultats définitifs en passant par la saisie des notes. Et la production des bulletins de notes. Voici ce qui constitue ce module:
+Prend en charge les tests ou concours d'entrée, les devoirs de classe (travaux pratiques, travaux dirigés,...), les interrogations et les examens. Tout ceci allant de la gestion des candidatures aux résultats définitifs en passant par la saisie des notes. Et la production des bulletins de notes. Voici ce qui constitue ce module:
 
 - Le paramétrage et l'uniformisation
 - La saisie des notes par l'enseignant ou/et les secrétaires d'un jury
