@@ -10,7 +10,7 @@ Cette fonctionnalité permet de gérer les entités d'enseignement.
 Allez dans le menu \ **Etudes**\  et puis cliquez sur le sous-menu \ **Gestion des entités d'enseignement**\.
 
 	.. figure:: _static/listEntities.png
-		:scale: 70 %
+		:scale: 60 %
 		:align: center
 
 		Gestion des éntités d'enseignement
@@ -44,20 +44,15 @@ Supprimer une entité
 Gestion des études
 ==================
 
-Cette fonctionnalité permet de gérer l'organisation des études.
-
+Ce module permet de gèrer l'organisation des études c'est-à-dire la création, la modification et la suppression des départements, options, des ensembles de cours (promotions).
 Allez dans le menu \ **Etudes**\  et puis cliquez sur le sous-menu \ **Gestion des études**\.
 
- .. figure:: _static/mnuEtudes.png
- 	:scale: 70 %
- 	:align: center
- 	:alt: Le sous-menu Gestion des études
+La fenêtre qui apparait permet de l'organisation des études.
 
- 	Le sous-menu Gestion des études
+	 .. figure:: _static/mnuEtudes.png
+	 	:scale: 60 %
+	 	:align: center
+	 	:alt: Le sous-menu Gestion des études
 
 * Départements : Pour gérer les départements d'une éntité, allez dans l'onglet Départements
-	* Ajouter
-	 	* Cliquez sur le bouton \ **Ajouter**\  dans la fenêtre précedente.
-		* Remplissez les différents champs.
-		* Remplissez les différentes champs et puis cliquez sur \ **Enregistrer**\ .
-		* Une fenêtre apparait pour indiquer si l'opération a reussi ou pas.
+	* Ajouter : Cliquez sur le bouton \ **Ajouter**\  dans la fenêtre précedente. Remplissez les différentes champs et puis cliquez sur \ **Enregistrer**\ . Validez OK au message de l'assistant.
