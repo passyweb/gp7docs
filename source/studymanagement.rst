@@ -54,5 +54,80 @@ La fenêtre qui apparait permet de l'organisation des études.
 	 	:align: center
 	 	:alt: Le sous-menu Gestion des études
 
-* Départements : Pour gérer les départements d'une éntité, allez dans l'onglet Départements
-	* Ajouter : Cliquez sur le bouton \ **Ajouter**\  dans la fenêtre précedente. Remplissez les différentes champs et puis cliquez sur \ **Enregistrer**\ . Validez OK au message de l'assistant.
+Les départements
+----------------
+Pour gérer les départements d'une éntité, allez dans l'onglet **Départements**
+
+Ajouter un nouveau département
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Cliquez sur le bouton \ **Ajouter**\  dans la fenêtre précedente. 
+- Remplissez les différentes champs et puis cliquez sur \ **Enregistrer**\ . 
+- Validez OK au message de l'assistant.
+
+Modifier un département
+^^^^^^^^^^^^^^^^^^^^^^^
+
+- Sélectionnez un élement et puis cliquez sur le bouton \ **Modifier**\  ou double-cliquez un élement.
+- Modifiez les champs voulus et puis cliquez sur le bouton \ **Enregistrer**\ .
+
+Supprimer un département
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+    .. warning:: La suppression d’un département peut entrainer la suppression des toutes les données qui dépendent         d’elle notamment les **ensemble des cours**, les **inscriptions**, etc. Il est conseillé de supprimer d’abord toutes les dépendances.
+
+
+- Sélectionnez un élement et cliquez sur le bouton \ **Supprimer**\ .
+- Un message de confirmation apparait. Cliquez sur Oui
+
+Les options
+-----------
+Pour gérer les départements d'une éntité, allez dans l'onglet **Départements**
+
+Ajouter une nouvelle option
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Cliquez sur le bouton \ **Ajouter**\  dans la fenêtre précedente. 
+- Remplissez les différentes champs et puis cliquez sur \ **Enregistrer**\ . 
+- Validez OK au message de l'assistant.
+
+Modifier une option
+^^^^^^^^^^^^^^^^^^^
+
+- Sélectionnez un élement et puis cliquez sur le bouton \ **Modifier**\  ou double-cliquez un élement.
+- Modifiez les champs voulus et puis cliquez sur le bouton \ **Enregistrer**\ .
+
+Supprimer une option
+^^^^^^^^^^^^^^^^^^^^
+
+    .. warning:: La suppression d’une option peut entrainer la suppression des toutes les données qui dépendent         d’elle notamment les **ensemble des cours**, les **inscriptions**, etc. Il est conseillé de supprimer d’abord toutes les dépendances.
+
+
+- Sélectionnez un élement et cliquez sur le bouton \ **Supprimer**\ .
+- Un message de confirmation apparait. Cliquez sur Oui
+
+Les ensembles de cours
+----------------------
+Pour gérer les départements d'une éntité, allez dans l'onglet **Départements**
+
+Ajouter un ensemble de cours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Cliquez sur le bouton \ **Ajouter**\  dans la fenêtre précedente. 
+- Remplissez les différentes champs et puis cliquez sur \ **Enregistrer**\ . 
+- Validez OK au message de l'assistant.
+
+Modifier un ensemble de cours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Sélectionnez un élement et puis cliquez sur le bouton \ **Modifier**\  ou double-cliquez un élement.
+- Modifiez les champs voulus et puis cliquez sur le bouton \ **Enregistrer**\ .
+
+Supprimer un ensemble de cours
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    .. warning:: La suppression d’un ensemble de cours peut entrainer la suppression des toutes les données qui dépendent d’elle notamment les **inscriptions**, etc. Il est conseillé de supprimer d’abord toutes les dépendances.
+
+
+- Sélectionnez un élement et cliquez sur le bouton \ **Supprimer**\ .
+- Un message de confirmation apparait. Cliquez sur Oui
