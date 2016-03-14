@@ -54,3 +54,25 @@ Pour réinscrire un étudiant, allez dans le menu **Inscription**, puis cliquez 
 - Remplissez tous les champs
 - Cliquez sur le bouton Enregistrer
 - Validez OK sur le message de confirmation
+
+Exclusions définitives et abandons (démissions)
+===============================================
+
+Exclusion défintive d'étudiant
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Un étudiant exclu est une étudiant inscrit (avec matricule) et qui a été, pour une raison ou une autre, renvoyé. Pour exclure un étudiant, allez dans le menu **Inscriptions**, puis cliquez sur **Gestion d'un étudiant**
+
+- Assurez-vous que vous êtes sur les inscrits,
+- Entrez les différents critères, puis cliquez sur le bouton **Rechercher**
+- Sélectionnez l'étudiant à renvoyer et cliquez sur **Exclure**
+
+	.. figure:: _static/exclusion1.png
+		:scale: 50 %
+		:align: center
+
+- Confirmez l'exclusion en cliquant sur **Oui**
+
+	.. figure:: _static/exclusion2.png
+		:scale: 50 %
+		:align: center
