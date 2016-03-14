@@ -82,7 +82,7 @@ Supprimer un département
 
 Les options
 -----------
-Pour gérer les départements d'une éntité, allez dans l'onglet **Départements**
+Pour gérer les départements d'une éntité, allez dans l'onglet **Options**
 
 Ajouter une nouvelle option
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -108,7 +108,7 @@ Supprimer une option
 
 Les ensembles de cours
 ----------------------
-Pour gérer les départements d'une éntité, allez dans l'onglet **Départements**
+Pour gérer les départements d'une éntité, allez dans l'onglet **Ensembles de cours**
 
 Ajouter un ensemble de cours
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
