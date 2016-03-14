@@ -272,7 +272,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   (master_doc, 'Gp7', 'Gp7 Documentation',
-   author, 'Gp7', 'One line description of project.',
+   author, 'Gp7', 'Manuel de l''utilisateur Gp7',
    'Miscellaneous'),
 ]
 

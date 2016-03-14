@@ -40,7 +40,7 @@ Allez dans le menu **Outils**  ->  **Gestion des utilisateurs**
 La fenêtre qui suit permet de définir les groupes d'utilisateurs; par défaut, deux groupes sont déjà créés : **ADMINS** et **SUPERUSERS**. 
 
 	.. image:: _static/users_1.png
-		:scale: 50 %
+		:scale: 60 %
 		:align: center
 
 Pour ajouter un groupe, cliquez sur **Ajouter**, saisissez le **Code**, le **Libellé** et la **Déscription** du groupe puis cliquez sur Enregistrer. Validez **OK** au message de l'assistant

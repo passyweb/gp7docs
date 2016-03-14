@@ -40,7 +40,7 @@ Pour réinscrire un étudiant, allez dans le menu **Inscription**, puis cliquez 
 - Entrez le critère que vous voulez (Noms ou/et Prénoms ou/et Ensemble de cours)
 - Cliquez sur le bouton Rechercher
 
-	.. image:: _static/reinscription.png
+	.. figure:: _static/reinscription.png
 		:scale: 60 %
 		:align: center
 
