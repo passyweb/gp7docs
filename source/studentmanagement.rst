@@ -40,13 +40,13 @@ Pour réinscrire un étudiant, allez dans le menu **Inscription**, puis cliquez 
 - Entrez le critère que vous voulez (Noms ou/et Prénoms ou/et Ensemble de cours)
 - Cliquez sur le bouton Rechercher
 
-	.. figure:: _static/reinscription.png
+	.. image:: _static/reinscription.png
 		:scale: 60 %
 		:align: center
 
 - Cliquez sur le bouton Inscrire
 
-	.. figure:: _static/reinscription2.png
+	.. image:: _static/reinscription2.png
 		:scale: 60 %
 		:align: center
 
@@ -67,12 +67,12 @@ Un étudiant exclu est une étudiant inscrit (avec matricule) et qui a été, po
 - Entrez les différents critères, puis cliquez sur le bouton **Rechercher**
 - Sélectionnez l'étudiant à renvoyer et cliquez sur **Exclure**
 
-	.. figure:: _static/exclusion1.png
+	.. image:: _static/exclusion1.png
 		:scale: 50 %
 		:align: center
 
 - Confirmez l'exclusion en cliquant sur **Oui**
 
-	.. figure:: _static/exclusion2.png
+	.. image:: _static/exclusion2.png
 		:scale: 50 %
 		:align: center
