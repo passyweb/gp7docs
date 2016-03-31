@@ -1,13 +1,16 @@
-.. Gp7 Manuel de l'utilisateur master file, created by
-   sphinx-quickstart on Fri Nov 27 11:53:34 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Manuel de l'utilisateur Gp7 
+Manuel de l'utilisateur Gp7
 ===========================
 
-.. toctree::
+La documentation Gp7 est organisé en plusieurs sections:
+
+:ref:`user-docs`
+
+
+.. _user-docs:
+
+ .. toctree::
    :maxdepth: 2
+   :caption: Documentation de l'utilisateur final
 
    introduction
    setup
@@ -16,5 +19,3 @@ Manuel de l'utilisateur Gp7
    studentmanagement
    changelog
    faq
-
-
