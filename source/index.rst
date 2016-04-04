@@ -1,5 +1,5 @@
-Manuel de l'utilisateur Gp7
-===========================
+Docs Gp7
+========
 
 La documentation Gp7 est organisé en plusieurs sections:
 
