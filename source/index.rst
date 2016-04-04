@@ -3,15 +3,15 @@ Manuel de l'utilisateur Gp7
 
 La documentation Gp7 est organisé en plusieurs sections:
 
-:ref:`user-docs`
-:ref:`dev-docs`
+* :ref:`user-docs`
+* :ref:`dev-docs`
 
 
 .. _user-docs:
 
  .. toctree::
    :maxdepth: 2
-   :caption: Documentation utiilisateur
+   :caption: Docs Utilisateur
 
    introduction
    setup
@@ -25,4 +25,4 @@ La documentation Gp7 est organisé en plusieurs sections:
 
  .. toctree::
    :maxdepth: 2
-   :caption: Documentation développeur
+   :caption: Docs Développeur
