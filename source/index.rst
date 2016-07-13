@@ -28,7 +28,7 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    
 .. _about-docs:
 
-.. toctree::
+ .. toctree::
    :maxdepth: 2
    :caption: A propos de Gp7
    
