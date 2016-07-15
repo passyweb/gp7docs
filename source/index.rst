@@ -20,7 +20,7 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    studymanagement
    studentmanagement
 
-.. _gp7-docs:
+.. _gp7notes-docs:
 
  .. toctree::
    :maxdepth: 2
