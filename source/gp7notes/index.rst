@@ -1,21 +1,12 @@
-Documentation Gp7
-=================
+Docs Gp7
+========
 
 La documentation principale de Gp7 est organisé en plusieurs sections:
 
-* :ref:`intro-docs`
 * :ref:`gp7-docs`
 * :ref:`gp7notes-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
-
-.. _intro-docs:
-
- .. toctree::
-   :maxdepth: 2
-   :caption: Introduction
-
-   introduction
 
 .. _gp7-docs:
 
@@ -24,10 +15,10 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    :caption: Gp7
 
    introduction
-   gp7/setup
-   gp7/gettingstarted
-   gp7/studymanagement
-   gp7/studentmanagement
+   setup
+   gettingstarted
+   studymanagement
+   studentmanagement
 
 .. _gp7notes-docs:
 
@@ -35,8 +26,7 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    :maxdepth: 2
    :caption: Gp7 Notes
 
-   gp7notes/prerequisite
-   gp7notes/enrollment
+   gp7notes/gp7notes_index
   
 .. _dev-docs:
 
