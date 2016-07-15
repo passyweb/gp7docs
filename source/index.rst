@@ -3,28 +3,34 @@ Docs Gp7
 
 La documentation principale de Gp7 est organisé en plusieurs sections:
 
-* :ref:`user-docs`
+* :ref:`gp7-docs`
+* :ref:`gp7notes-docs`
 * :ref:`dev-docs`
 * :ref:`about-docs`
 
-
-.. _user-docs:
+.. _gp7-docs:
 
  .. toctree::
    :maxdepth: 2
-   :caption: Docs Utilisateur
+   :caption: Manuel Utilisateur Gp7
 
    introduction
    setup
    gettingstarted
    studymanagement
    studentmanagement
-   
+
+.. _gp7-docs:
+
+ .. toctree::
+   :maxdepth: 2
+   :caption: Manuel Utilisateur Gp7 Notes
+  
 .. _dev-docs:
 
  .. toctree::
    :maxdepth: 2
-   :caption: Docs Développeur
+   :caption: Documentation technique
    
 .. _about-docs:
 
