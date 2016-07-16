@@ -16,6 +16,7 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    :caption: Introduction
 
    introduction
+   setup
 
 .. _gp7-docs:
 
@@ -23,8 +24,6 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    :maxdepth: 2
    :caption: Gp7
 
-   introduction
-   gp7/setup
    gp7/gettingstarted
    gp7/studymanagement
    gp7/studentmanagement
