@@ -28,7 +28,7 @@ Informations sur l'établissement ou institution
 
 Pour rentrer des informations sur l'établissement, allez dans le menu **Outils** puis **Paramètres sur l'établissement**. 
 
-	.. image:: _static/infosetablissement.png
+	.. image:: _static/infosetablissement.PNG
 		:scale: 50 %
 		:align: center
 
