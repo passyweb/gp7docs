@@ -69,12 +69,12 @@ Suivez les différentes étapes d'installation
         :align: center
 
  Licence   
-    .. image:: images/install_3.png
+    .. image:: images/install_3.PNG
         :scale: 60%
         :align: center
 
  Dossier d'installation  
-    .. image:: images/install_4.png
+    .. image:: images/install_4.PNG
         :scale: 60%
         :align: center
 
@@ -84,11 +84,11 @@ Suivez les différentes étapes d'installation
         :align: center
 
  Prêt à installer   
-    .. image:: images\install_6.PNG
+    .. image:: images/install_6.PNG
         :scale: 60%
         :align: center
 
  Installation en cours    
-    .. image:: images\install_7.PNG
+    .. image:: images/install_7.PNG
         :scale: 60%
         :align: center
