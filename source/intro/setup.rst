@@ -79,7 +79,7 @@ Suivez les différentes étapes d'installation
         :align: center
 
  Dossier du menu Démarrer    
-    .. image:: images\install_5.PNG
+    .. image:: images/install_5.PNG
         :scale: 60%
         :align: center
 
