@@ -64,7 +64,7 @@ Double-cliquez sur le fichier d'installation téléchargé depuis la forge
 
 Suivez les différentes étapes d'installation
 
-    .. image:: ./images/install_2.png
+    .. image:: images/install_2.PNG
         :scale: 60%
         :align: center
 
