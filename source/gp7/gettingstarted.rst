@@ -20,7 +20,7 @@ Chaine de connexion
 Pour modifier ou tester la connexion vers le serveur de base de données, allez dans le menu **Outils** puis **Chaine de connexion**.
 
 	.. image:: _static/connectionstring.PNG
-		:scale: 50 %
+		:scale: 80 %
 		:align: center
 
 Informations sur l'établissement ou institution
