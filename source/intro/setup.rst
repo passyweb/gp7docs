@@ -69,7 +69,7 @@ Suivez les différentes étapes d'installation
         :align: center
 
  Licence   
-    .. image:: images\install_3.png
+    .. image:: images/install_3.png
         :scale: 60%
         :align: center
 
