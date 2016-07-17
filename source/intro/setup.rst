@@ -58,37 +58,37 @@ Installation de Gp7 sur les postes clients
 
 Double-cliquez sur le fichier d'installation téléchargé depuis la forge
 
-    .. image:: _static/install_1.png
+    .. image:: images\install_1.png
         :scale: 60%
         :align: center
 
 Suivez les différentes étapes d'installation
 
-    .. image:: _static/install_2.png
+    .. image:: images\install_2.png
         :scale: 60%
         :align: center
 
  Licence   
-    .. image:: _static/install_3.png
+    .. image:: images\install_3.png
         :scale: 60%
         :align: center
 
  Dossier d'installation  
-    .. image:: _static/install_4.png
+    .. image:: images\install_4.png
         :scale: 60%
         :align: center
 
  Dossier du menu Démarrer    
-    .. image:: _static/install_5.png
+    .. image:: images\install_5.png
         :scale: 60%
         :align: center
 
  Prêt à installer   
-    .. image:: _static/install_6.png
+    .. image:: images\install_6.png
         :scale: 60%
         :align: center
 
  Installation en cours    
-    .. image:: _static/install_7.png
+    .. image:: images\install_7.png
         :scale: 60%
         :align: center
