@@ -35,8 +35,9 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    :caption: Guide de l'utilisateur Gp7 Notes
 
    gp7notes/presentation
-   gp7notes/prerequisite
    gp7notes/enrollment
+   gp7notes/encodage
+   gp7notes/deliberations
   
 .. _dev-docs:
 

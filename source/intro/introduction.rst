@@ -1,5 +1,5 @@
 ************
-Introduction 
+Présentation 
 ************ 
 
 Gp7 est une application de gestion académique développée en C# utilisant le `.NET Framework <http://en.wikipedia.org/wiki/.NET_Framework>`_ et `Microsoft SQL Server <http://en.wikipedia.org/wiki/Microsoft_SQL_Server>`_
