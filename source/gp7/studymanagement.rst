@@ -41,6 +41,11 @@ Supprimer une entité
 	* Sélectionnez un élement et cliquez sur le bouton \ **Supprimer**\ .
 	* Un message de confirmation apparait. Cliquez sur Oui
 
+Plus de détails sur une entité
+------------------------------
+	* Sélectionnez un élement et puis cliquez sur le bouton \ **Gérer**\  .
+	* Modifiez les champs voulus et puis cliquez sur le bouton \ **Enregistrer**\ .
+
 Gestion des études
 ==================
 
