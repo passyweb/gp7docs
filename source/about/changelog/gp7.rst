@@ -1,12 +1,7 @@
 *************
-Changelog Gp7
+Gp7 Changelog 
 *************
 
-* Gp7
-
-    - 4.3.15
-
-        - New
-
-        - Fix
-
+4.3.15
+******
+- **Etudes** : Possibilité de renseigner les informations sur les autorités de l'entité 
