@@ -53,7 +53,8 @@ La documentation principale de Gp7 est organisé en plusieurs sections:
    
    about/about
    about/partners
-   about/changelog
+   about/changelog/gp7
+   about/changelog/gp7notes
    about/faq
    
    
