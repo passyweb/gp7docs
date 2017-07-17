@@ -47,7 +47,7 @@ La gestion des cours (création et édition) se fait dans Gp7. Toutefois, voici 
 
     - Le stage et le travail de fin de cycle ou mémoire interviennent pour 30% au moins et 50% au plus dans le résultat global. Et ils sont noté soit en pourcentage soit en points.
 
-    
+    Ces éléments peuvent être modifiés `ici <http://www.gnu.org/licenses/gpl-3.0.en.html>`_
 
  
 
