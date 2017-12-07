@@ -2,6 +2,52 @@
 Module Scolarité
 ****************
 
+Gestion des candidatures (ou pré-inscriptions)
+==============================================
+
+La gestion des candidatures concerne principalement les personnes voulant s'inscrire en première année (Premier Cycle : Bachelier, Graduat).
+
+Les candidatures ou pré-inscriptions sont gérées à partir du menu **Inscriptions**
+
+Préinscrire un candidat
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Pour préinscrire un candidat :
+
+- Allez dans le menu **Inscritions**, puis cliquez sur **Préinscrire un candidat**
+- Une fenêtre apparait. Sur la première page, on retrouve les informations personnelles. Remplissez les différents champs puis cliquez sur Suivant.
+- Sur la deuxième page, specifiez les différents choix de filière du candidat.
+- Complétez les informations sur les autres pages.
+- Sur la dernière page, cliquez sur **Terminer** 
+
+
+Recherche d'un candidat
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Pour rechercher un candiat, allez dans le menu **Inscriptions**, puis cliquez sur **Gérer un candidat**. 
+
+- Dans la fenêtre de recherche, entrez vos critères de recherche et puis cliquez sur le bouton **Rechercher**. Vous avez le choix entre les noms (nom, postnom et/ou prénom et le matricule).
+- Une fois, les resultats de la recherche affichés, cliquez sur le candidat voulu dans le panneau gauche de la fenêtre de recherche.
+- Dans le panneau droit, apparait quelques informations sur la candidat sélectionné ainsi que les différents choix de filière faits.
+
+Validation d'un choix de filière
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Permet de valider un des choix effectué par le candidat lors de la pré-inscription. Cette operation change le statut du candidat en étudiant.
+
+- Lancez la recherche et sélectionnez le candidat voulu.
+- Dans le panneau droit, Cliquez sur le choix à valider.
+- Cliquez sur le bouton **Confirmer**
+
+Voir le dossier du candiat
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Permet de consulter les informations rentrées lors de la procedure de pré-inscription.
+
+- Lancez la recherche et sélectionnez le candidat voulu.
+- Cliquez sur le bouton **Voir Détails**
+
+
 Gestion des inscriptions
 ========================
 
