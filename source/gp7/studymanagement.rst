@@ -136,3 +136,11 @@ Supprimer un ensemble de cours
 
 - Sélectionnez un élement et cliquez sur le bouton \ **Supprimer**\ .
 - Un message de confirmation apparait. Cliquez sur Oui
+
+
+Gestion des Enseignents
+=======================
+
+Cette fonctionnalité permet de gérer les enseignents.
+
+Allez dans le menu \ **Etudes**\  et puis cliquez sur le sous-menu \ **Enseignents**\.

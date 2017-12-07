@@ -67,10 +67,6 @@ Dans l'onglet **Entités**, Cochez l'entité ou les entités sur lesquelles ce g
 
 Dans l'onglet **Droit d'accès**, sélectionnez cochez les différents que vous voulez attribuez aux membres de ce groupe
 
-Actualisation des menus
------------------------
-
-Il arrive que des menus et/ou sous-menus (rôles) soient ajoutés ou supprimés de Gp7. Pour les actualiser, allez dans le menu **Outils** puis cliquez sur **Actualise les rôles dans la base de données**.
 
 Pays et nationalités
 --------------------
